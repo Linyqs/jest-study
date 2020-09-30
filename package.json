@@ -1,0 +1,25 @@
+{
+  "name": "jest-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "build": "babel src/index.js -o dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linyqs/jest-study.git"
+  },
+  "author": "Linyq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linyqs/jest-study/issues"
+  },
+  "homepage": "https://github.com/Linyqs/jest-study#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "jest": "^26.4.2"
+  }
+}
