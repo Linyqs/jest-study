@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Linyqs/jest-study#readme",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.10.4",
+    "axios": "^0.20.0",
     "jest": "^26.4.2"
   }
 }
